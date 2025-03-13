@@ -1,6 +1,7 @@
 ---
 title: Travesty
 draft: false
+publish: true
 ---
 
 # Taras is Trasa
