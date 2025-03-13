@@ -1,3 +1,3 @@
 Another index
 
-The [File](./dir-file.md) in this folder.
+The [File](./dir-file) in this folder.
